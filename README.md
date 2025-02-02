@@ -3,6 +3,13 @@
 ## Main Features
 - Multilanguage FAQ bot for Telegram
 
+<img src="https://github.com/user-attachments/assets/b13f0042-95aa-4b52-a79d-19f8d2346fd9" width="350px"/>
+<img src="https://github.com/user-attachments/assets/b4a01984-556a-46cd-9275-1d0d17316c80" height="600px"/>
+<img src="https://github.com/user-attachments/assets/d9ed7471-7c60-4b5b-9693-fc4f6ececfcb" height="600px"/>
+<img src="https://github.com/user-attachments/assets/0369e189-a013-4455-9eda-66a251fe8449" height="600px"/>
+<img src="https://github.com/user-attachments/assets/756417eb-4e7e-4c17-998f-18dd5f297205" height="600px"/>
+
+
 ## Tech stack
 - Typescript
 - Telegram API
