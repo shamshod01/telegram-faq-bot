@@ -1,0 +1,47 @@
+[
+  {
+    "idx": 1,
+    "language": "en",
+    "title": "game"
+  },
+  {
+    "idx": 2,
+    "language": "en",
+    "title": "wallet"
+  },
+  {
+    "idx": 3,
+    "language": "en",
+    "title": "other"
+  },
+  {
+    "idx": 4,
+    "language": "ru",
+    "title": "игра"
+  },
+  {
+    "idx": 5,
+    "language": "ru",
+    "title": "кошелек"
+  },
+  {
+    "idx": 6,
+    "language": "ru",
+    "title": "другое"
+  },
+  {
+    "idx": 7,
+    "language": "kr",
+    "title": "게임"
+  },
+  {
+    "idx": 8,
+    "language": "kr",
+    "title": "지갑"
+  },
+  {
+    "idx": 9,
+    "language": "kr",
+    "title": "기타"
+  }
+]

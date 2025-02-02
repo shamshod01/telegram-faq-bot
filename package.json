@@ -1,0 +1,27 @@
+{
+  "name": "telegram-faq-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon ./serve.ts",
+    "start": "npx ts-node serve.ts",
+    "build": "npm run clean && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shamshod Rozikov <realshamshod01@gmail.com> (https://github.com/shamshod01/)",
+  "license": "MIT",
+  "description": "Telegram FAQ bot",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.6",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "@types/node-telegram-bot-api": "^0.64.7"
+  }
+}

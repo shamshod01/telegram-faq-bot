@@ -1,0 +1,345 @@
+[
+  {
+    "idx": 1,
+    "language": "en",
+    "category": "1",
+    "question": "How to play the game?",
+    "answer": "You can play the game by clicking on the 'Play' button."
+  },
+  {
+    "idx": 2,
+    "language": "en",
+    "category": "1",
+    "question": "How to win the game?",
+    "answer": "You can win the game by scoring more points than your opponent."
+  },
+  {
+    "idx": 3,
+    "language": "en",
+    "category": "2",
+    "question": "How to deposit money?",
+    "answer": "You can deposit money by clicking on the 'Deposit' button."
+  },
+  {
+    "idx": 4,
+    "language": "en",
+    "category": "2",
+    "question": "How to withdraw money?",
+    "answer": "You can withdraw money by clicking on the 'Withdraw' button."
+  },
+  {
+    "idx": 5,
+    "language": "en",
+    "category": "3",
+    "question": "How to contact support?",
+    "answer": "You can contact support by clicking on the 'Support' button."
+  },
+  {
+    "idx": 6,
+    "language": "en",
+    "category": "3",
+    "question": "How to report a bug?",
+    "answer": "You can report a bug by clicking on the 'Report' button."
+  },
+  {
+    "idx": 7,
+    "language": "ru",
+    "category": "4",
+    "question": "Как играть в игру?",
+    "answer": "Вы можете играть в игру, нажав на кнопку 'Играть'."
+  },
+  {
+    "idx": 8,
+    "language": "ru",
+    "category": "4",
+    "question": "Как выиграть игру?",
+    "answer": "Вы можете выиграть игру, набрав больше очков, чем ваш оппонент."
+  },
+  {
+    "idx": 9,
+    "language": "ru",
+    "category": "5",
+    "question": "Как пополнить счет?",
+    "answer": "Вы можете пополнить счет, нажав на кнопку 'Пополнить'."
+  },
+  {
+    "idx": 10,
+    "language": "ru",
+    "category": "5",
+    "question": "Как вывести деньги?",
+    "answer": "Вы можете вывести деньги, нажав на кнопку 'Вывести'."
+  },
+  {
+    "idx": 11,
+    "language": "ru",
+    "category": "6",
+    "question": "Как связаться с поддержкой?",
+    "answer": "Вы можете связаться с поддержкой, нажав на кнопку 'Поддержка'."
+  },
+  {
+    "idx": 12,
+    "language": "ru",
+    "category": "6",
+    "question": "Как сообщить о баге?",
+    "answer": "Вы можете сообщить о баге, нажав на кнопку 'Сообщить'."
+  },
+  {
+    "idx": 13,
+    "language": "kr",
+    "category": "7",
+    "question": "게임을 어떻게 하나요?",
+    "answer": "'게임' 버튼을 클릭하여 게임을 할 수 있습니다."
+  },
+  {
+    "idx": 14,
+    "language": "kr",
+    "category": "7",
+    "question": "게임을 어떻게 이기나요?",
+    "answer": "상대방보다 더 많은 점수를 획득하여 게임을 이길 수 있습니다."
+  },
+  {
+    "idx": 15,
+    "language": "kr",
+    "category": "8",
+    "question": "돈을 어떻게 입금하나요?",
+    "answer": "'입금' 버튼을 클릭하여 돈을 입금할 수 있습니다."
+  },
+  {
+    "idx": 16,
+    "language": "kr",
+    "category": "8",
+    "question": "돈을 어떻게 출금하나요?",
+    "answer": "'출금' 버튼을 클릭하여 돈을 출금할 수 있습니다."
+  },
+  {
+    "idx": 17,
+    "language": "kr",
+    "category": "9",
+    "question": "지원팀에 어떻게 연락하나요?",
+    "answer": "'지원' 버튼을 클릭하여 지원팀에 연락할 수 있습니다."
+  },
+  {
+    "idx": 18,
+    "language": "kr",
+    "category": "9",
+    "question": "버그를 어떻게 신고하나요?",
+    "answer": "'신고' 버튼을 클릭하여 버그를 신고할 수 있습니다."
+  },
+  {
+    "idx": 19,
+    "language": "en",
+    "category": "1",
+    "question": "Can I pause the game?",
+    "answer": "Yes, you can pause the game by clicking the 'Pause' button."
+  },
+  {
+    "idx": 20,
+    "language": "en",
+    "category": "1",
+    "question": "How to change game settings?",
+    "answer": "You can change game settings in the 'Settings' menu."
+  },
+  {
+    "idx": 21,
+    "language": "en",
+    "category": "1",
+    "question": "Are there different difficulty levels?",
+    "answer": "Yes, you can select difficulty levels in the 'Options' menu."
+  },
+  {
+    "idx": 22,
+    "language": "en",
+    "category": "1",
+    "question": "Can I play with friends?",
+    "answer": "Yes, you can invite friends through the multiplayer mode."
+  },
+  {
+    "idx": 23,
+    "language": "en",
+    "category": "1",
+    "question": "What are in-game rewards?",
+    "answer": "In-game rewards include points, achievements, and bonuses."
+  },
+  {
+    "idx": 24,
+    "language": "en",
+    "category": "2",
+    "question": "Is my wallet secure?",
+    "answer": "Yes, our wallet uses encryption and security measures to protect your funds."
+  },
+  {
+    "idx": 25,
+    "language": "en",
+    "category": "2",
+    "question": "How to recover my wallet?",
+    "answer": "You can recover your wallet using the backup phrase provided during setup."
+  },
+  {
+    "idx": 26,
+    "language": "en",
+    "category": "2",
+    "question": "Are there transaction fees?",
+    "answer": "Yes, small transaction fees may apply depending on the payment method."
+  },
+  {
+    "idx": 27,
+    "language": "en",
+    "category": "2",
+    "question": "Can I use my wallet on multiple devices?",
+    "answer": "Yes, you can sync your wallet by logging in with the same account."
+  },
+  {
+    "idx": 28,
+    "language": "en",
+    "category": "2",
+    "question": "How to check my wallet balance?",
+    "answer": "You can check your wallet balance from the 'Wallet' section."
+  },
+  {
+    "idx": 29,
+    "language": "en",
+    "category": "3",
+    "question": "How to change my account password?",
+    "answer": "You can change your password in the 'Account Settings' section."
+  },
+  {
+    "idx": 30,
+    "language": "en",
+    "category": "3",
+    "question": "Where can I find the terms of service?",
+    "answer": "The terms of service are available at the bottom of our homepage."
+  },
+  {
+    "idx": 31,
+    "language": "en",
+    "category": "3",
+    "question": "How to enable two-factor authentication?",
+    "answer": "You can enable 2FA in the 'Security Settings' menu."
+  },
+  {
+    "idx": 32,
+    "language": "en",
+    "category": "3",
+    "question": "Can I delete my account?",
+    "answer": "Yes, you can request account deletion in the 'Account Settings' menu."
+  },
+  {
+    "idx": 33,
+    "language": "en",
+    "category": "3",
+    "question": "How do I update my profile?",
+    "answer": "You can update your profile information in the 'Profile Settings' section."
+  },
+  {
+    "idx": 34,
+    "language": "ru",
+    "category": "4",
+    "question": "Можно ли поставить игру на паузу?",
+    "answer": "Да, вы можете нажать кнопку 'Пауза'."
+  },
+  {
+    "idx": 35,
+    "language": "ru",
+    "category": "4",
+    "question": "Как изменить настройки игры?",
+    "answer": "Вы можете изменить настройки в меню 'Настройки'."
+  },
+  {
+    "idx": 36,
+    "language": "ru",
+    "category": "4",
+    "question": "Есть ли разные уровни сложности?",
+    "answer": "Да, вы можете выбрать уровень сложности в меню 'Опции'."
+  },
+  {
+    "idx": 37,
+    "language": "ru",
+    "category": "4",
+    "question": "Можно ли играть с друзьями?",
+    "answer": "Да, вы можете пригласить друзей в многопользовательском режиме."
+  },
+  {
+    "idx": 38,
+    "language": "ru",
+    "category": "4",
+    "question": "Какие есть игровые награды?",
+    "answer": "Награды включают очки, достижения и бонусы."
+  },
+  {
+    "idx": 39,
+    "language": "ru",
+    "category": "5",
+    "question": "Насколько безопасен мой кошелек?",
+    "answer": "Наш кошелек использует шифрование и защитные меры для безопасности ваших средств."
+  },
+  {
+    "idx": 40,
+    "language": "ru",
+    "category": "5",
+    "question": "Как восстановить кошелек?",
+    "answer": "Вы можете восстановить кошелек с помощью резервной фразы."
+  },
+  {
+    "idx": 41,
+    "language": "ru",
+    "category": "5",
+    "question": "Есть ли комиссия за транзакции?",
+    "answer": "Да, возможны небольшие комиссии в зависимости от способа оплаты."
+  },
+  {
+    "idx": 42,
+    "language": "ru",
+    "category": "5",
+    "question": "Можно ли использовать кошелек на нескольких устройствах?",
+    "answer": "Да, можно синхронизировать кошелек, войдя в учетную запись."
+  },
+  {
+    "idx": 43,
+    "language": "ru",
+    "category": "5",
+    "question": "Как проверить баланс кошелька?",
+    "answer": "Вы можете проверить баланс в разделе 'Кошелек'."
+  },
+  {
+    "idx": 44,
+    "language": "kr",
+    "category": "7",
+    "question": "게임을 일시 정지할 수 있나요?",
+    "answer": "'일시 정지' 버튼을 눌러 게임을 멈출 수 있습니다."
+  },
+  {
+    "idx": 45,
+    "language": "kr",
+    "category": "7",
+    "question": "게임 설정을 변경하려면 어떻게 하나요?",
+    "answer": "'설정' 메뉴에서 게임 설정을 변경할 수 있습니다."
+  },
+  {
+    "idx": 46,
+    "language": "kr",
+    "category": "7",
+    "question": "난이도를 조절할 수 있나요?",
+    "answer": "'옵션' 메뉴에서 난이도를 선택할 수 있습니다."
+  },
+  {
+    "idx": 47,
+    "language": "kr",
+    "category": "7",
+    "question": "친구와 함께 플레이할 수 있나요?",
+    "answer": "멀티플레이 모드를 통해 친구를 초대할 수 있습니다."
+  },
+  {
+    "idx": 48,
+    "language": "kr",
+    "category": "7",
+    "question": "게임 내 보상은 무엇인가요?",
+    "answer": "게임 내 보상에는 포인트, 업적, 보너스가 포함됩니다."
+  },
+  {
+    "idx": 49,
+    "language": "end",
+    "category": "1",
+    "question": "Can I save my progress?",
+    "answer": "Yes, you can save your progress by clicking the 'Save' button."
+  }
+]
